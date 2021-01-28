@@ -11,11 +11,11 @@ Binary search tree, Arrays
 C++
 
 # Functions:
-Creation\n
-Insertion\n
-Deletion\n
-Inorder Traversal (display)\n
-Searching\n
-Total number of words\n
+Creation ; 
+Insertion ; 
+Deletion ; 
+Inorder Traversal (display) ; 
+Searching ; 
+Total number of words
 
 
