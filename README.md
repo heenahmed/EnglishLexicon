@@ -19,11 +19,11 @@ Searching ;
 Total number of words
 
 # Group Members
-Aditi Agrawal  
-Balpreet Kaur
-Jaskiran Kaur
-Heena Ahmed
-Saumya Jangid
-#-
+Aditi Agrawal ; 
+Balpreet Kaur ; 
+Jaskiran Kaur ; 
+Heena Ahmed ; 
+Saumya Jangid ; 
+# -
 
 
