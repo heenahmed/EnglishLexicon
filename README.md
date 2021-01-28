@@ -18,4 +18,12 @@ Inorder Traversal (display) ;
 Searching ; 
 Total number of words
 
+# Group Members
+Aditi Agrawal  
+Balpreet Kaur
+Jaskiran Kaur
+Heena Ahmed
+Saumya Jangid
+#-
+
 
